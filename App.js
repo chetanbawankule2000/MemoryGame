@@ -87,7 +87,7 @@ const App = () => {
       }}>
       <View style={{marginBottom: 50, alignItems: 'center'}}>
         <Text style={{color: 'black', fontSize: 32, fontWeight: '700'}}>
-          Magic Game
+          Memory Game
         </Text>
         <TouchableOpacity
           onPress={() => {
